@@ -88,4 +88,6 @@ if(number1 === 1 && number2 === 1){
     console.log ("You rolled a 6")
 }else if (number1 === 6 && number2 === 7){
     console.log ("You rolled a 1")
+}else {
+    console.log ("Error")
 }
